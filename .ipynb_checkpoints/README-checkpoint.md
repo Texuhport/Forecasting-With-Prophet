@@ -3,8 +3,9 @@
 This analysis provides insights into traffic trends, financial results and their correlation with stock market performance. 
 
 The notebook is formatted for use on [Google Colab](https://colab.research.google.com/)
-_______________________________________________________________________________________________________
 # Comparing The Data Periods
+
+__________________________________________________________________________________________________________
 The **'Monthly Traffic Score'** is the calculated difference between the average monthly median traffic (all-time) and the median traffic for month in question. The Monthly Traffic Score for May 2020 is **-2.66** which means it typically had higher traffic than is expected for most months.
 
 The **'2020 Monthly Traffic Score'** gives more insight. This is a comparison of the average monthly median for the year 2020 and the average median for may. May has a 2020 Monthly Traffic Score of **-1.56** which means it was better than other months that year in terms of traffic.
