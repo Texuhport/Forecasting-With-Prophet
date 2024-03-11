@@ -1,5 +1,5 @@
 # Overview
-### Project by: Oluwademilade Oyebanji
+### Project by: [Demi Oyebanji](mailto:oluwademiladeoyebanji@outlook.com) 
 This analysis provides insights into traffic trends, financial results and their correlation with stock market performance. 
 
 The notebook is formatted for use on [Google Colab](https://colab.research.google.com/)
